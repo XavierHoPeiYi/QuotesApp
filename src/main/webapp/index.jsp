@@ -16,7 +16,7 @@
             </ul>
 
         </div>
-    </div>
+    </div>v
 </header>
 <div class="bg-dark text-secondary px-4 py-5 text-center">
         <h1 class="display-5 fw-bold text-white">QuoteApp</h1>
@@ -36,7 +36,7 @@
   width: 100vw;">
 <footer class="footer mt-auto py-3 bg-light">
     <div class="container">
-        <span class="text-muted">DevOps Group Assignment Part 1 | 2022 | All Rights Reserved</span>
+        <span class="text-muted">DevOps Group Assignment Part 2 | 2023| All Rights Reserved</span>
     </div>
 </footer>
 </body>

@@ -31,7 +31,7 @@ public class HelloServlet extends HttpServlet {
                 "        <div class=\"d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start\">\n" +
                 "            <ul class=\"nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0\">\n" +
                 "                <li><a href=\"index.jsp\" class=\"nav-link px-2 text-white\">Home</a></li>\n" +
-                "                <li><a href=\"#\" class=\"nav-link px-2 text-white\">About</a></li>\n" +
+                "                <li><a href=\"aboutUs.jsp\" class=\"nav-link px-2 text-white\">About</a></li>\n" +
                 "            </ul>\n" +
                 "\n" +
                 "        </div>\n" +
